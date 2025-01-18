@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "5-sem-project"
+version = "0.1.0"
+description = ""
+authors = ["Maxim Tsaregradtsev <3m3rcy3@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.6"
+pydantic-settings = "^2.7.1"
+uvicorn = "^0.34.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheRo\\.vscode\\Dev\\5_sem_project\\kr_convert_sys_sc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6E1F40-FD44-4141-8083-42022BF635E2}|kr_convert_sys_sc.vcxproj|C:\\Users\\TheRo\\.vscode\\Dev\\5_sem_project\\kr_convert_sys_sc\\convert.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F6E1F40-FD44-4141-8083-42022BF635E2}|kr_convert_sys_sc.vcxproj|solutionrelative:convert.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6E1F40-FD44-4141-8083-42022BF635E2}|kr_convert_sys_sc.vcxproj|C:\\Users\\TheRo\\.vscode\\Dev\\5_sem_project\\kr_convert_sys_sc\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F6E1F40-FD44-4141-8083-42022BF635E2}|kr_convert_sys_sc.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\TheRo\\.vscode\\Dev\\5_sem_project\\kr_convert_sys_sc\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\TheRo\\.vscode\\Dev\\5_sem_project\\kr_convert_sys_sc\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T15:34:38.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convert.asm",
+              "DocumentMoniker": "C:\\Users\\TheRo\\.vscode\\Dev\\5_sem_project\\kr_convert_sys_sc\\convert.asm",
+              "RelativeDocumentMoniker": "convert.asm",
+              "ToolTip": "C:\\Users\\TheRo\\.vscode\\Dev\\5_sem_project\\kr_convert_sys_sc\\convert.asm",
+              "RelativeToolTip": "convert.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-18T15:34:25.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
